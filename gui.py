@@ -1,0 +1,3 @@
+from tkinker import *
+
+window()
